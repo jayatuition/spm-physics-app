@@ -7,23 +7,23 @@ const TOPICS_METADATA = {
   form4: {
     title: "Form 4 Topics",
     topics: [
-      { id: 'form4-measurements', name: 'Functions & Inverse ', description: '' },
-      { id: 'form4-force-1', name: 'Indices', description: '' },
-      { id: 'form4-gravitation', name: 'Progression', description: '' },
-      { id: 'form4-heat', name: 'Quadratic Functions', description: '' },
-      { id: 'form4-waves', name: 'Vectors', description: '' },
-      { id: 'form4-optics', name: 'Vectors', description: '' }
+      { id: 'form4-measurements', name: 'Units and Measurments ', description: '' },
+      { id: 'form4-force-1', name: 'Force 1', description: '' },
+      { id: 'form4-gravitation', name: 'Gravitation', description: '' },
+      { id: 'form4-heat', name: 'Heat Thermodynamics', description: '' },
+      { id: 'form4-waves', name: 'Waves', description: '' },
+      { id: 'form4-optics', name: 'Ray Optics', description: '' }
     ]
   },
   form5: {
     title: "Form 5 Topics",
     topics: [
-      { id: 'form5-electricity', name: 'Derivatives ', description: '' },
-      { id: 'form5-emi', name: 'Integration', description: '  ' },
-      { id: 'form5-electronics', name: 'Permutation Combination', description: ' ' },
-      { id: 'form5-force-2', name: 'Probability  ', description: ' ' },
-      { id: 'form5-nuclear', name: 'Vectors', description: '' },
-      { id: 'form5-pressure', name: 'Vectors', description: '' }
+      { id: 'form5-electricity', name: 'Current Electricity', description: '' },
+      { id: 'form5-emi', name: 'Eletromagnetisim', description: '  ' },
+      { id: 'form5-electronics', name: 'Electronics', description: ' ' },
+      { id: 'form5-force-2', name: 'Force 2', description: ' ' },
+      { id: 'form5-nuclear', name: 'Nuclear Energy', description: '' },
+      { id: 'form5-pressure', name: 'Pressure', description: '' }
     ]
   }
 };
