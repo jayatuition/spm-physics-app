@@ -283,7 +283,7 @@ export default function SPMAddMathApp() {
             <div className="flex items-center justify-center mb-4">
               <BookOpen className="w-16 h-16 text-indigo-600" />
             </div>
-            <h1 className="text-4xl font-bold text-gray-800 mb-2">SPM PHYSICS MATH</h1>
+            <h1 className="text-4xl font-bold text-gray-800 mb-2">SPM PHYSICS</h1>
             <p className="text-gray-600">Practice questions with LaTeX support</p>
             {lastUpdated && (
               <p className="text-sm text-gray-500 mt-2">
