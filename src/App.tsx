@@ -24,7 +24,7 @@ const TOPICS_METADATA = {
       { id: 'form5-force-2', name: 'Force 2', description: ' ' },
       { id: 'form5-nuclear', name: 'Nuclear Energy', description: '' },
       { id: 'form5-pressure', name: 'Pressure', description: '' },
-      { id: 'form5-quantum', name: 'Pressure', description: '' }
+      { id: 'form5-quantum', name: 'Quantum Mechanics', description: '' }
     ]
   }
 };
